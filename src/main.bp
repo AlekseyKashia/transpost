@@ -1,0 +1,61 @@
+{
+  "positions" : [ {
+    "id" : "/New",
+    "name" : "New",
+    "x" : 240,
+    "y" : 240
+  }, {
+    "id" : "/Error",
+    "x" : 163,
+    "y" : 102
+  }, {
+    "id" : "/Error",
+    "name" : "Error",
+    "x" : 603,
+    "y" : 487
+  }, {
+    "id" : "/Error",
+    "x" : 163,
+    "y" : 102
+  }, {
+    "id" : "/start",
+    "name" : "start",
+    "x" : -229,
+    "y" : -224
+  }, {
+    "id" : "/start",
+    "name" : "start",
+    "x" : -777,
+    "y" : -564
+  }, {
+    "id" : "/Error",
+    "name" : "Error",
+    "x" : 245,
+    "y" : -809
+  }, {
+    "id" : "/Info",
+    "name" : "Info",
+    "x" : 323,
+    "y" : -176
+  }, {
+    "id" : "/Go_Info",
+    "name" : "Go_Info",
+    "x" : 774,
+    "y" : -68
+  }, {
+    "id" : "/Exit",
+    "name" : "Exit",
+    "x" : 1575,
+    "y" : 385
+  }, {
+    "id" : "/Break",
+    "name" : "Break",
+    "x" : 1014,
+    "y" : -616
+  }, {
+    "id" : "/Nomer_Z",
+    "name" : "Nomer_Z",
+    "x" : -228,
+    "y" : -2
+  } ]
+}
